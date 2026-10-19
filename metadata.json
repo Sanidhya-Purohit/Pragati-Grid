@@ -1,0 +1,8 @@
+{
+  "name": "Pragati Grid",
+  "description": "AI-Powered Civic Problem Triage & Student Solution Innovation Platform connecting citizen complaints with student engineering solutions and verified impact credentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
